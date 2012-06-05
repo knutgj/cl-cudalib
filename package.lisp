@@ -12,12 +12,6 @@
 	   #:cu-memcpy
 
 	   ;;functions - cufft
-           ;#:ft3-csf
-	   ;#:ift3-csf
-	   ;#:ft2-csf
-	   ;#:ift2-csf
-	   ;#:ft2!-csf
-	   ;#:ift2!-csf
 	   #:cu-plan2d-csf
 	   #:cufft-destroy
 	   #:cuft2-csf!

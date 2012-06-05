@@ -24,8 +24,3 @@
      (:file "libcufftstuff")
      (:file "libmylibstuff")))))
  
-
-;    ((:file "package")
-;     (:file "specdefs" :depends-on ("package"))
-;     (:file "common" :depends-on ("specdefs"))
-;     (:file "cuda" :depends-on ("common"))))
